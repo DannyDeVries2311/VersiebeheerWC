@@ -1,0 +1,46 @@
+body{
+  background-color: white;
+}
+
+#logo{
+  font-size: 80px;
+  color: black;
+  display: block;
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Special Elite', cursive;
+}
+
+.info{
+  width: 500px;
+  height: 80px;
+  margin: 30px auto;
+
+}
+
+.link_box{
+  width: 120px;
+  height: 50px;
+  padding: 20px;
+  float: left;
+
+}
+
+ .link_box a{
+  height: 40px;
+  width: 130px;
+  color: white;
+  display: block;
+  text-align: center;
+  padding-top: 20px;
+  text-decoration: none;
+  font-family: arial;
+  font-weight: bold;
+  background-color: darkgreen;
+}
+
+#links{
+  width: 640px;
+  height: 200px;
+  margin: 30px auto;
+}
