@@ -1,13 +1,14 @@
-body {
-	background: url(1940.jpg)center  no-repeat;
-	background-image: cover;
-	
+
 	
 }
-*{
-	padding: 0px;
-	margin: 0px;
-}
+
 .text {
 	color: black;
 	
+}
+
+.img {
+	img: url(1940.jpg) float left no-repeat;
+	height: 200 px;
+	width: 200 px;
+}
